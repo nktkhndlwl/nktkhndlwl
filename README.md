@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on platform backend for [Abacus.AI]()
+- 🌱 I’m currently learning Rust and Python FastAPI
+
+[![An image of @nktkhndlwl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nktkhndlwl)](https://holopin.io/@nktkhndlwl)
 
 <!--
 **nktkhndlwl/nktkhndlwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
